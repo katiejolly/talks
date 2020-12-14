@@ -9,37 +9,35 @@ html {
 }
 
 body {
-  background-color: #DCEDFF !important;
+  background-color: #ECECEC !important;
 }
 
 h1,h2,h3 {
-  color: #577399;
+  color: #AC3B61;
   font-weight: 400;
-  font-family: 'Didact Gothic', sans-serif;
-  margin-left: 200px;
-}
-
-h1 + p {
-  margin-left: 200px;
-
-}
-
-
-p {
-  color: #577399;
-  font-weight: 300;
   font-family: 'Didact Gothic', sans-serif;
   margin-left: 100px;
 }
 
+
+
+
+p {
+  color: #18191A;
+  font-weight: 300;
+  font-family: 'Didact Gothic', sans-serif;
+  margin-left: 100px;
+  font-size: 16pt;
+}
+
 a {
-   color: #8F91A2;
-   text-decoration: none;
+   color: #18191A;
+   text-decoration: underline;
 }
 
 a:hover{
-  color: #B75D69;
-  background-color: #ccd6e6;
+  color: #18191A;
+  background-color: #edb7c7;
 }
 
 .home-arrow{
